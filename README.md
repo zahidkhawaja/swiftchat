@@ -7,7 +7,7 @@ An open source native ChatGPT app for iOS.
 1. Clone the project from GitHub:
 
 ```bash
-git clone git@github.com:zahidkhawaja/swiftchat.git
+git clone https://github.com/zahidkhawaja/swiftchat.git
 ```
 
 2. Navigate into the project directory: 
@@ -29,6 +29,8 @@ cp secrets.plist.example secrets.plist
 ```bash
 open SwiftChat.xcodeproj
 ```
+
+Make sure you have [Xcode](https://developer.apple.com/xcode/) installed on your Mac. If you run into issues, verify your keys in `secrets.plist` and set the iOS deployment target to the latest version. 
 
 ## 🧠 OpenAI Docs
 
