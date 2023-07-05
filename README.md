@@ -1,4 +1,7 @@
-# SwiftChat
+<h1>
+  <img src="./SwiftChat/Assets.xcassets/AppIcon.appiconset/PlaneIcon.png“ align="left" height="46px" alt=“SwiftChat”/>
+  <span>SwiftChat</span>
+</h1>
 
 An open source native ChatGPT app for iOS.
 
@@ -30,10 +33,10 @@ cp secrets.plist.example secrets.plist
 open SwiftChat.xcodeproj
 ```
 
-Make sure you have [Xcode](https://developer.apple.com/xcode/) installed on your Mac. If you run into issues, verify your keys in `secrets.plist` and set the iOS deployment target to the latest version. 
+Make sure you have [Xcode](https://developer.apple.com/xcode/) installed on your Mac. If you run into issues, verify the keys `OPENAI_API_KEY` and `OPENAI_ORG_ID` in `secrets.plist` and set the iOS deployment target to the latest version. 
 
 ## 🧠 OpenAI Docs
 
 - [OpenAI API](https://platform.openai.com/docs/api-reference) from the creators of GPT-4.
 
-## Follow [Zahid](https://twitter.com/chillzaza_) for updates 🚀 
+### Follow [Zahid](https://twitter.com/chillzaza_) for updates 🚀 
