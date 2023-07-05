@@ -1,5 +1,5 @@
 <h1>
-  <img src="./SwiftChat/Assets.xcassets/AppIcon.appiconset/PlaneIcon.png“ align="left" height="46px" alt=“SwiftChat”/>
+  <img src="./SwiftChat/Assets.xcassets/AppIcon.appiconset/PlaneIcon.png" align="left" height="46px" alt="SwiftChat"/>
   <span>SwiftChat</span>
 </h1>
 
