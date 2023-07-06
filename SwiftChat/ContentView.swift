@@ -75,6 +75,7 @@ struct ContentView: View {
                         Image(systemName: "ellipsis")
                             .font(.system(size: 24, weight: .bold))
                             .foregroundColor(AppColors.purple)
+                            .padding([.top, .bottom], 7.5).padding([.leading, .trailing], 5)
                     }
                 }
                 .padding(.horizontal, 20)
