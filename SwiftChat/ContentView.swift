@@ -77,6 +77,9 @@ struct ContentView: View {
                             .foregroundColor(AppColors.purple)
                             .padding([.top, .bottom], 7.5).padding([.leading, .trailing], 5)
                     }
+                    .onTapGesture {
+                        impactFeedback.impactOccurred()
+                    }
                 }
                 .padding(.horizontal, 20)
                 
